@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/QuizApplication/static/css/main.8b565992.chunk.css",
-    "main.js": "/QuizApplication/static/js/main.b2897004.chunk.js",
-    "main.js.map": "/QuizApplication/static/js/main.b2897004.chunk.js.map",
-    "runtime-main.js": "/QuizApplication/static/js/runtime-main.e400dab2.js",
-    "runtime-main.js.map": "/QuizApplication/static/js/runtime-main.e400dab2.js.map",
-    "static/js/2.e2585f5d.chunk.js": "/QuizApplication/static/js/2.e2585f5d.chunk.js",
-    "static/js/2.e2585f5d.chunk.js.map": "/QuizApplication/static/js/2.e2585f5d.chunk.js.map",
-    "static/js/3.40eb1b6d.chunk.js": "/QuizApplication/static/js/3.40eb1b6d.chunk.js",
-    "static/js/3.40eb1b6d.chunk.js.map": "/QuizApplication/static/js/3.40eb1b6d.chunk.js.map",
-    "index.html": "/QuizApplication/index.html",
-    "static/css/main.8b565992.chunk.css.map": "/QuizApplication/static/css/main.8b565992.chunk.css.map",
-    "static/js/2.e2585f5d.chunk.js.LICENSE.txt": "/QuizApplication/static/js/2.e2585f5d.chunk.js.LICENSE.txt",
-    "static/media/logo.8f8367d4.png": "/QuizApplication/static/media/logo.8f8367d4.png",
-    "static/media/mastermind2.a55aef21.png": "/QuizApplication/static/media/mastermind2.a55aef21.png"
+    "main.css": "/mastermind/static/css/main.8b565992.chunk.css",
+    "main.js": "/mastermind/static/js/main.b2897004.chunk.js",
+    "main.js.map": "/mastermind/static/js/main.b2897004.chunk.js.map",
+    "runtime-main.js": "/mastermind/static/js/runtime-main.3aef1ec6.js",
+    "runtime-main.js.map": "/mastermind/static/js/runtime-main.3aef1ec6.js.map",
+    "static/js/2.7cb76591.chunk.js": "/mastermind/static/js/2.7cb76591.chunk.js",
+    "static/js/2.7cb76591.chunk.js.map": "/mastermind/static/js/2.7cb76591.chunk.js.map",
+    "static/js/3.40eb1b6d.chunk.js": "/mastermind/static/js/3.40eb1b6d.chunk.js",
+    "static/js/3.40eb1b6d.chunk.js.map": "/mastermind/static/js/3.40eb1b6d.chunk.js.map",
+    "index.html": "/mastermind/index.html",
+    "static/css/main.8b565992.chunk.css.map": "/mastermind/static/css/main.8b565992.chunk.css.map",
+    "static/js/2.7cb76591.chunk.js.LICENSE.txt": "/mastermind/static/js/2.7cb76591.chunk.js.LICENSE.txt",
+    "static/media/logo.8f8367d4.png": "/mastermind/static/media/logo.8f8367d4.png",
+    "static/media/mastermind2.a55aef21.png": "/mastermind/static/media/mastermind2.a55aef21.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e400dab2.js",
-    "static/js/2.e2585f5d.chunk.js",
+    "static/js/runtime-main.3aef1ec6.js",
+    "static/js/2.7cb76591.chunk.js",
     "static/css/main.8b565992.chunk.css",
     "static/js/main.b2897004.chunk.js"
   ]
